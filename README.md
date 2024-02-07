@@ -32,4 +32,25 @@
     
         ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/8cbadcb6-baac-463d-b06c-b90182a82ca1)
 
- 
+ 3. 출금 기능
+
+    ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/9286da3a-a972-4364-9081-f7bcae8ea77c)
+
+    - 출금 화면 UI 구성
+    - 버든을 누르면 해당 금액 만큼 잔액에서 현금으로 이동
+
+      ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/efb21f03-e424-4772-9212-5b45739a4910)
+
+    - 직접 입력을 이용하면 입력한 금액만큼 입금
+    - 뒤로가기 버튼을 누르면 1번 화면으로 이동
+    - 잔액이 부족하면 팝업 띄우기
+      - 잔액 부족
+             - 3만원이 있을 때 5만원 출금 하려면 잔액 부족
+      - 확인 버튼 누르면 팝업 닫기
+     
+        ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/9393af6a-56a6-47a1-9adb-cbd83cf1be14)
+
+   
+
+
+
