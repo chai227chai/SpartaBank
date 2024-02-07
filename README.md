@@ -101,6 +101,30 @@
    - 회원가입 시 PlayerPefs를 이용하여 껏다 켜도 정보 유지되도록 유지
 
 
+5. 송금 기능
+
+   ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/af4cf0ba-f0d6-452d-93a0-717852386ec9)
+
+   - 송금 버튼 추가
+  
+      ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/6197591e-830a-4104-be79-82d4964a1e58)
+
+   - 송금 UI 구성
+   - 송금 대상과 금액을 입력하면 해당 아이디를 가진 대상에게 잔액에서 전송
+   - 송금 대상 / 금액을 입력 한하면 에러 - <span style="color:red">입력 정보를 확인해주세요.</span>
+
+   ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/044e459e-610d-4fd6-979a-39a68faa804e)
+
+   - 잔액이 부족하면 에러 - <span style="color:red">잔액이 부족합니다.</span>
+
+   ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/27c654f0-d1ea-48f4-98c4-d3fee07a6b34)
+
+   - 송금 대상이 없는 ID 면 에러 - <span style="color:red">대상이 없습니다.</span>
+
+   ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/8dd277c2-01e6-4b2b-8d87-515cce2cc5a7)
+
+
+
 
 
 
