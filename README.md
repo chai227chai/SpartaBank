@@ -50,7 +50,43 @@
      
         ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/9393af6a-56a6-47a1-9adb-cbd83cf1be14)
 
-   
+---
+
+### 선택 요구 사항
+
+
+1. 통화 단위 적용
+   - 1000의 자리 마다 , 표시
+   - 1000원이면 1,000
+   - 50000원이면 50,000
+     
+2.금액 입력시 숫자만 입력
+   - 인풋박스에 숫자외에 입력 안되게 적용
+
+3.로그인 기능
+
+   ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/f0c81aa1-cc16-4695-b2bf-dc09fb18bc5d)
+
+   - 실행하면 **필수요구사항 1.ATM** 대신 로그인 화면이 먼저 나타납니다.
+   - 아이디와 비밀번호를 입력하면 **필수요구사항 1.ATM** 으로 이동
+   - ~~아이디와 비밀번호는 아무값이나 입력해도 상관 없습니다.~~ -> 아이디와 비밀번호가 일치해야 화면이 넘어가도록 변경
+     
+     ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/948f3d2e-40db-4bd1-8b90-3b19312e4ad6)
+
+   - 비밀번호 입력 시 마스킹을 통해 ***으로 표시됩니다.
+
+     ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/9208ada8-4f0f-4c9f-8439-bc3f46fc59d6)
+
+4. 회원가입
+
+
+
+
+
+
+
+
+
 
 
 
