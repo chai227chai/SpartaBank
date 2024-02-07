@@ -79,6 +79,29 @@
 
 4. 회원가입
 
+   ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/23786062-1d4f-47b0-85c8-473176653c48)
+
+   - ID - 영어, 숫자 3글자 이상 ~ 10글자 이하
+
+   이미 있는 아이디면 가입 불가
+
+   - Name - 2글자 ~ 5글자
+   - PS - 영어, 숫자 5글자 이상 ~ 15글자 이하
+   - PS Confirm - PS와 동일한지 확인
+   - PS, PS Confirm - 입력 시 *** 마스킹 처리
+  
+     ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/93a6ad36-95f0-4b14-a49f-a383ea1b017c)
+
+   - 회원가입 조건이 안맞는 다면 Sign Up 시 에러 팝업 및 메세지
+
+     ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/d57fcbf0-973a-45cb-9233-5b50eceef276)
+
+     ![image](https://github.com/chai227chai/SpartaBank/assets/37549333/9925a737-5621-4cf9-862f-a634a5f2cfc4)
+
+   - 회원가입 시 PlayerPefs를 이용하여 껏다 켜도 정보 유지되도록 유지
+
+
+
 
 
 
