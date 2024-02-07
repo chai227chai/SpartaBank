@@ -16,15 +16,13 @@ public class User : MonoBehaviour
 
     private void Awake()
     {
-        
+        UIManager.instance.OnDepositConfirm += DepositMoney;
+        UIManager.instance.OnWithdrawConfirm += WithdrawMoney;
+        UIManager.instance.OnSend += SendMoney;
     }
 
     private void Start()
     {
-        UIManager.instance.OnDepositConfirm += DepositMoney;
-        UIManager.instance.OnWithdrawConfirm += WithdrawMoney;
-        UIManager.instance.OnSend += SendMoney;
-
         SetUserName();
         UpdateCashUI();
         UpdateLeftUI();

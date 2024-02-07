@@ -7765,7 +7765,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uC785\uAE08\n"
+  m_text: "\uCD9C\uAE08"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c2def2354af8244478b864e28bc2982f, type: 2}
   m_sharedMaterial: {fileID: 1403285883865293458, guid: c2def2354af8244478b864e28bc2982f, type: 2}
@@ -9236,7 +9236,7 @@ GameObject:
   - component: {fileID: 1805909217}
   - component: {fileID: 1805909216}
   m_Layer: 5
-  m_Name: DepositConfirm
+  m_Name: WithdrawConfirm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
